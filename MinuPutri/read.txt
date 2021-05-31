@@ -1,0 +1,7 @@
+user dan password
+admin : 
+username :admin pwd : admin
+guru
+usrnmb: ryan pwd : ryan
+siswa
+usrnm : abdur pwd : abdur
